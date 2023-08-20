@@ -1,2 +1,13 @@
 # Fraud-bank-account-Detection
-Developed a fraud detection model using ML & DL algorithms on a dataset of 1M instances, including 11K fraud accounts. Overcame imbalanced data challenges with data preprocessing, feature extraction ,analysis sampling & analytics. Implemented algorithms including XGboost , Logistic Regression, SVM, Random Forest, and ANN. Deployed the model as a web app for easy use
+In recent years,Fraud detection & Money Laundering have been the major focus of many financial institutions.It is
+the data investigation process by Data Science team & the development of model that will provide the best results in
+revealing & preventing suspicious fraudulent accounts using ML Algorithms.
+
+The adaptive framework should be able to learn,adapt & get creative while performing data transaction processing to avoid any misclassification of
+non-fraud account.
+
+We have developed an adaptive model based on dataset from NeuralIPS which containing 1M
+instances based on a real-world dataset.We have 11029 fraud account details against 988971 non-fraudulent account
+details.Since dataset is highly imbalance,it possessed great challenge for data preprocessing,data modeling,feature
+extraction, analysis sampling & analytics.We have used algorithms such as Logistic Regression,SVM,Random
+Forest & ANN to bulid model.We can deploy this model on any system as webapp to find fraud account.
